@@ -1,3 +1,3 @@
 # CV
 
-[CV](https://altynkasym.github.io/CV/)
+[CV](https://altynalym.github.io/CV/)
